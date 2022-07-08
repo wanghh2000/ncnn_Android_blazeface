@@ -18,6 +18,8 @@ android {
         }
     }
 
+    ndkVersion '21.4.7075529'
+
     dependencies {
         implementation 'com.android.support:support-v4:24.0.0'
     }

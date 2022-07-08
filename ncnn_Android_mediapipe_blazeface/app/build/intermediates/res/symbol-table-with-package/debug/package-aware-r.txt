@@ -1,0 +1,9 @@
+com.tencent.blazefacencnn
+array cpugpu_array
+array size_array
+id buttonSwitchCamera
+id cameraview
+id spinnerCPUGPU
+id spinnerModel
+layout main
+string app_name

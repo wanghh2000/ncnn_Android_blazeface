@@ -1,0 +1,53 @@
+{
+  "ndkFolder": "C:\\hhwang_android\\sdk\\ndk\\21.4.7075529",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is 21.4.7075529"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is C:\\hhwang_android\\sdk"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering C:\\hhwang_android\\sdk\\ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering C:\\hhwang_android\\sdk\\ndk\\21.3.6528147 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering C:\\hhwang_android\\sdk\\ndk\\21.3.6528147-2 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering C:\\hhwang_android\\sdk\\ndk\\21.4.7075529 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering C:\\hhwang_android\\sdk\\ndk\\25.0.8355429 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering C:\\hhwang_android\\sdk\\ndk\\25.0.8528842 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Rejected C:\\hhwang_android\\sdk\\ndk\\21.3.6528147 in SDK ndk folder because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested NDK version 21.4.7075529 at C:\\hhwang_android\\sdk\\ndk\\21.4.7075529"
+    }
+  ]
+}

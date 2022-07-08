@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\hh_code\src\github.com\wanghh2000\ncnn_Android_blazeface\ncnn_Android_mediapipe_blazeface\app\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

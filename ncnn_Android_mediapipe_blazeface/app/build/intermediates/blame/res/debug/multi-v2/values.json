@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\hh_code\\src\\github.com\\wanghh2000\\ncnn_Android_blazeface\\ncnn_Android_mediapipe_blazeface\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\hh_code\\src\\github.com\\wanghh2000\\ncnn_Android_blazeface\\ncnn_Android_mediapipe_blazeface\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "239,107,55",
+                        "endLines": "11,7,2",
+                        "endColumns": "19,19,51",
+                        "endOffsets": "343,234,102"
+                    },
+                    "to": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,296",
+                        "endLines": "5,10,11",
+                        "endColumns": "19,19,51",
+                        "endOffsets": "159,291,343"
+                    }
+                }
+            ]
+        }
+    ]
+}

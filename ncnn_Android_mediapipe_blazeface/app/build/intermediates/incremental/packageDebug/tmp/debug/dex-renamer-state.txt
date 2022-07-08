@@ -1,0 +1,7 @@
+#Fri Jul 08 23:18:46 CST 2022
+base.1=C\:\\hh_code\\src\\github.com\\wanghh2000\\ncnn_Android_blazeface\\ncnn_Android_mediapipe_blazeface\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\hh_code\\src\\github.com\\wanghh2000\\ncnn_Android_blazeface\\ncnn_Android_mediapipe_blazeface\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

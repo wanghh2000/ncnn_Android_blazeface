@@ -1,0 +1,7 @@
+Executable : C:\hhwang_android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\hh_code\src\github.com\wanghh2000\ncnn_Android_blazeface\ncnn_Android_mediapipe_blazeface\app\.cxx\cmake\debug\armeabi-v7a
+blazefacencnn
+jvmArgs : 
+

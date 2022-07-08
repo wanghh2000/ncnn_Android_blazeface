@@ -1,0 +1,6 @@
+# ninja log v5
+11	1118	678996721	CMakeFiles/blazefacencnn.dir/ndkcamera.cpp.o	b82fffd95047a85e
+5	1164	678996721	CMakeFiles/blazefacencnn.dir/blazefacencnn.cpp.o	a76b1caf1382a886
+8	1314	678996721	CMakeFiles/blazefacencnn.dir/landmark.cpp.o	683e70a08c7a6e0b
+0	1315	678996721	CMakeFiles/blazefacencnn.dir/face.cpp.o	2dbdcc7fe6a44246
+1315	1964	678996722	C:/hh_code/src/github.com/wanghh2000/ncnn_Android_blazeface/ncnn_Android_mediapipe_blazeface/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazefacencnn.so	bc47e99f4caa3f6
